@@ -6,3 +6,7 @@ Created on Thu Mar 31 11:41:12 2022
 """
 
 print('Hello World')
+
+x=10
+
+print(x*2)
